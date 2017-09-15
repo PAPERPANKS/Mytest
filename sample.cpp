@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream> //header file
 
-int main() {
-	cout<<"hello open source !"; //printing statement
+int main() { //main of program
+	cout<<"hello open source !"; //printing statement 
 	return 0;
-}
+} //end of main()
