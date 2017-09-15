@@ -1,6 +1,6 @@
 #include<iostream>
-using namespace std;
-int main(){
-cout<<"hello open source !";
-return 0;
+
+int main()	{
+	cout<<"hello open source !"; //printing statement
+	return 0;
 }
